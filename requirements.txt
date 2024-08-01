@@ -1,0 +1,8 @@
+modal
+selenium
+numpy
+scipy
+scikit-image
+torch
+Pillow
+transformers
